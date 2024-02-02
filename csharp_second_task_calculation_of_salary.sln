@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp_second_task_calculation_of_salary", "csharp_second_task_calculation_of_salary\csharp_second_task_calculation_of_salary.csproj", "{C558E120-8C37-467E-AEEF-6FA90233433C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C558E120-8C37-467E-AEEF-6FA90233433C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C558E120-8C37-467E-AEEF-6FA90233433C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C558E120-8C37-467E-AEEF-6FA90233433C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C558E120-8C37-467E-AEEF-6FA90233433C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DAB18C5-B664-40B8-88AA-5779A47F692A}
+	EndGlobalSection
+EndGlobal
